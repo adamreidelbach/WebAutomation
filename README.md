@@ -5,3 +5,8 @@ This application is my first step into web automation. Once running, the applica
 ### Technology
 
 * .NET Framework
+
+### Packages
+* Selenium
+* Selenium Support
+* Selenium ChromeDriver
